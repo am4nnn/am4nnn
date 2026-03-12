@@ -5,7 +5,7 @@ A dedicated student at Shaheed Sukhdev College of Business Studies (Delhi Univer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my coding skills via online course, coding competitions, and hackathons.
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> and <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> 
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> and <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> 
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: <p align="center">
 <a href="https://www.linkedin.com/in/designingbyaman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
