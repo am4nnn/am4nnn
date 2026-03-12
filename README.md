@@ -15,14 +15,14 @@ A dedicated student at Shaheed Sukhdev College of Business Studies (Delhi Univer
 
 <p align="left"> <a href="https://www.github.com/am4nnn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/designingbyaman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/am4nnn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/am4nnn"><img src="https://github-readme-stats.vercel.app/api?username=am4nnn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="am4nnn's GitHub stats" /></a>
+<a href="http://www.github.com/am4nnn"><img src="https://github-readme-stats.vercel.app/api?username=am4nnn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="am4nnn's GitHub stats" /></a>
 
-<a href="http://www.github.com/am4nnn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=am4nnn&stroke=0891b2&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/am4nnn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=am4nnn&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/am4nnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nnn&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/am4nnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nnn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
