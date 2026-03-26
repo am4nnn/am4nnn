@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aman Pratap Singh
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aman Pratap Singh
 ==========================================================================================================================================
 
 A dedicated student at Shaheed Sukhdev College of Business Studies (Delhi University), currently pursuing a Bachelor of Science (Honours) degree in Computer Science. Complementing this academic foundation with hands-on experience in software development through academic and personal projects, including web applications and backend systems.
