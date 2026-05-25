@@ -8,7 +8,7 @@ A dedicated student at Shaheed Sukhdev College of Business Studies (Delhi Univer
 * 🧠  I'm currently learning C++ & Django
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/designingbyaman) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/am4npratapsingh) 
 
 <a href="https://www.github.com/am4nnn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
