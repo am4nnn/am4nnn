@@ -23,10 +23,3 @@ src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-ba
 <a href="http://www.github.com/am4nnn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=am4nnn&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/am4nnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nnn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=am4nnn&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4nnn&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
