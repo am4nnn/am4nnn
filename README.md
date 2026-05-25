@@ -23,9 +23,3 @@ src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-ba
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=am4nnn&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=am4nnn&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=am4nnn&icon=0&color=0)](https://visitcount.itsvg.in)
