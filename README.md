@@ -21,5 +21,6 @@ src="https://img.shields.io/github/followers/am4nnn?logo=github&style=for-the-ba
 ![](https://streak-stats.demolab.com/?user=am4nnn&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=am4nnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=am4nnn&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+-->
